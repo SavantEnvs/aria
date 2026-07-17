@@ -1,0 +1,1 @@
+(do (= x (fn (n) (* n n))) (print (x 7)))

@@ -1,0 +1,1 @@
+(print (pcall (fn () (error "e")) (fn (err tr) err)))
